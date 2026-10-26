@@ -45,7 +45,7 @@ SUPPORT_CHANNEL = getenv(
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/+E79AmxrRESdjZjU8"
+    "https://t.me/+8vP-jj_MbGg2MWMx"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv(
